@@ -1,3 +1,8 @@
+// B. BerSU Ball - 489
+// Problem: https://codeforces.com/problemset/problem/489/B
+// Author: Ali Shafiee
+
+
 #include<iostream>
 #include<algorithm>
 

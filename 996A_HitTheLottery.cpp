@@ -1,3 +1,7 @@
+// A. Hit the Lottery - 996
+// Problem: https://codeforces.com/problemset/problem/996/A
+// Author: Ali Shafiee
+
 n = int(input())
 counter = 0
 counter += n // 100

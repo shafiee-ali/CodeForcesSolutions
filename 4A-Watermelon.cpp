@@ -1,5 +1,9 @@
-#include<iostream>
+// A. Watermelon - 4
+// Problem: https://codeforces.com/problemset/problem/4/A
+// Author: Ali Shafiee
 
+
+#include<iostream>
 using namespace std;
 
 int main() {
